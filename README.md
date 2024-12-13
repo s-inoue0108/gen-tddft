@@ -1,6 +1,8 @@
 # `gen-tddft.pl`
 
 Gaussian の構造最適化計算のアウトプットから、TD-DFT 計算のインプットを出力します。`opt=modredundant` オプションによるスキャン計算の結果にも対応しています。
+\
+スクリプトの中身については[こちら](https://siwl.dev/blog/articles/gaussian-scan-extract/)をご覧ください。
 
 ## 動作環境
 
